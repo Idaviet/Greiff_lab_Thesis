@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+SPACE2/__init__.py
+SPACE2/agglomerative_clustering.py
+SPACE2/exhaustive_clustering.py
+SPACE2/greedy_clustering.py
+SPACE2/util.py
+SPACE2.egg-info/PKG-INFO
+SPACE2.egg-info/SOURCES.txt
+SPACE2.egg-info/dependency_links.txt
+SPACE2.egg-info/requires.txt
+SPACE2.egg-info/top_level.txt
